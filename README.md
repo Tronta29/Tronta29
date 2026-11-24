@@ -7,7 +7,7 @@ I build working AI applications end to end: LLM-powered features, multi-step age
 ## Featured projects
 
 - **[Personal Life OS](https://github.com/Tronta29/personal-life-os)** · An AI-powered life management app. Gemini turns plain-language commands into tasks and finance records. *Next.js, TypeScript, Prisma, PostgreSQL, Gemini API*
-- **Taktik İz** · An AI agent pipeline that researches football matches, writes tactical analyses and turns them into narrated videos. *Claude Code agents, ElevenLabs, Remotion*
+- **[Taktik İz](https://github.com/Tronta29/taktik-iz)** · An AI agent pipeline that researches football matches, writes tactical analyses and turns them into narrated videos. *Claude Code agents, ElevenLabs, Remotion*
 - **ANADOL-AI** · A reinforcement learning agent trained to drive a vehicle in a 2D simulation. *Python, Pygame, Stable-Baselines3*
 
 ## Tech I use
