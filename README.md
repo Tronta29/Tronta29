@@ -24,4 +24,4 @@ I build working AI applications end to end: LLM-powered features, multi-step age
 
 ## Contact
 
-📧 toramand9@gmail.com
+📧 toramand9@gmail.com · 💼 [linkedin.com/in/dervistoraman](https://www.linkedin.com/in/dervistoraman)
